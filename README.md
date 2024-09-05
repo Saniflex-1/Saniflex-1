@@ -4,7 +4,7 @@
 
 # 💫 About Me:
  🔭 I'm currently working on a Skill Hub Project <br>
-👯 I'm looking forward to collaborating with anyone on any project - Js frameworks<br> 
+👯 `I'm looking forward to collaborating with anyone on any project - Js frameworks`<br> 
 💬 Ask me anything about programming <br>
 ⚡ Fun fact: Be you, Be true to yourself. <br>
 🤔 I’m looking for help with branding myself <br>
